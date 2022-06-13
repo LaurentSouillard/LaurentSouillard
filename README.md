@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaurentSouillard
 - 👀 I’m interested in cleantech and eco-friendly coding.
-- 🌱 I’m currently learning Fullstack development.
-- 💞️ I’m looking to collaborate on Fullstack junior position.
+- 🌱 I’m currently workimg in Fullstack development.
+- 💞️
 - 📫 You can reach me directly on my website https://laurentsouillard.com/
 
 <!---
