@@ -2,7 +2,7 @@
 - 👀 I’m interested in cleantech and eco-friendly coding.
 - 🌱 I’m currently workimg in Fullstack development.
 - 💞️
-- 📫 You can reach me directly on my website https://laurentsouillard.com/
+- 📫 You can reach me directly on my website [https://laurentsouillard.com/](https://www.souillardlaurent.ch/)
 
 <!---
 LaurentSouillard/LaurentSouillard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
